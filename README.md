@@ -1,0 +1,2 @@
+# AngularRenderDynamic
+Render Component Dynamic 
